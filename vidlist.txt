@@ -1,0 +1,6 @@
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\me.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\want.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\to.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\go.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\to.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Sentences\israel.mp4'
