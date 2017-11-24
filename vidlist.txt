@@ -1,5 +1,3 @@
-file 'C:\Users\Shpoozipoo\Desktop\Sentences\you.mp4'
-file 'C:\Users\Shpoozipoo\Desktop\Sentences\female.mp4'
-file 'C:\Users\Shpoozipoo\Desktop\Sentences\and.mp4'
-file 'C:\Users\Shpoozipoo\Desktop\Sentences\me.mp4'
-file 'C:\Users\Shpoozipoo\Desktop\Sentences\mammal.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Signs\how.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Signs\you.mp4'
+file 'C:\Users\Shpoozipoo\Desktop\Signs\to.mp4'

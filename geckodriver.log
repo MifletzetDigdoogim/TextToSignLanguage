@@ -3651,202 +3651,173 @@ Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\op
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
 [Child 58772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 58772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-M event "beforeunload" for "about:blank"
-1511473838553	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511473838553	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1511473838949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473840443	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473840582	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473840906	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473840914	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
-1511473840982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
-1511473840983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
-1511473840990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
-1511473841473	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473842457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
-1511473842624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
-1511473843447	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511473847544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1511532935270	geckodriver	INFO	geckodriver 0.19.0
-1511532935270	geckodriver	INFO	Listening on 127.0.0.1:53799
-1511532937333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.Sd2SLwjU0pS3"
-1511532937785	Marionette	INFO	Enabled via --marionette
+[Parent 45832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Parent 74620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Child 40648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 40648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1511532939095	Marionette	INFO	Listening on port 53805
-1511532939387	Marionette	WARN	TLS certificate errors will be ignored for this session
-1511532939533	Marionette	DEBUG	Register listener.js for window 4294967297
-1511532939552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1511532940415	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511532940416	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1511532940958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532943464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
-1511532944144	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
-1511532944165	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532944345	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532944660	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532944689	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532944988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511532944989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
-1511532944990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
-1511532944991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
-1511532944991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511532944991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
-1511532944992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
-1511532944993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
-1511532944993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
-1511532944994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
-1511532944995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511532944996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
-1511532944997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
-1511532944998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
-1511532944999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
-1511532946074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532946856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
-1511532946946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
-1511532947417	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511532951188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 86328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 86328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 45832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Child 90836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-1511533658261	geckodriver	INFO	geckodriver 0.19.0
-1511533658261	geckodriver	INFO	Listening on 127.0.0.1:54286
-1511533660371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.rDRkN8G0z5RY"
-1511533660777	Marionette	INFO	Enabled via --marionette
+[Child 105428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 105428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Parent 66848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1511533662359	Marionette	INFO	Listening on port 54292
-1511533662423	Marionette	WARN	TLS certificate errors will be ignored for this session
-1511533662495	Marionette	DEBUG	Register listener.js for window 4294967297
-1511533662529	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1511533663078	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511533663079	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1511533663755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533665355	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533665625	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533665979	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533665999	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511533666092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
-1511533666093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
-1511533666093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
-1511533666093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
-1511533666093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511533666094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
-1511533666094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
-1511533666094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
-1511533666094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
-1511533666395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533667822	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533671517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-1511533863571	geckodriver	INFO	geckodriver 0.19.0
-1511533863587	geckodriver	INFO	Listening on 127.0.0.1:54761
-1511533865618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.IlAagPokERx4"
-1511533866043	Marionette	INFO	Enabled via --marionette
-1511533867364	Marionette	INFO	Listening on port 54767
-1511533867690	Marionette	WARN	TLS certificate errors will be ignored for this session
-1511533867814	Marionette	DEBUG	Register listener.js for window 4294967297
-1511533867839	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1511533868412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511533868413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1511533868980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533870751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
-1511533871216	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533871379	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533871730	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533871743	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533871807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
-1511533871808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511533871809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
-1511533871809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
-1511533871809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
-1511533871809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
-1511533871809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
-1511533872182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533873251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
-1511533874069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
-1511533874267	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533877951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Parent 45832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Parent 91240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 91240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 49332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 49332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 45832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Child 35296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 97456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
-[Child 67636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-
-###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
-
-1511533926957	geckodriver	INFO	geckodriver 0.19.0
-1511533926957	geckodriver	INFO	Listening on 127.0.0.1:55223
-1511533929051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.UnAu57LxXAXr"
-1511533929462	Marionette	INFO	Enabled via --marionette
-1511533930673	Marionette	INFO	Listening on port 55230
-1511533931121	Marionette	WARN	TLS certificate errors will be ignored for this session
-1511533931268	Marionette	DEBUG	Register listener.js for window 4294967297
-1511533931294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1511533931812	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1511533931814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1511533932364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533935969	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533936215	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533936764	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533936784	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533936941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
-1511533936942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
-1511533936945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
-1511533936945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
-1511533936946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
-1511533936946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
-1511533936947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
-1511533936947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
-1511533936947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
-1511533936948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
-1511533936949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
-1511533936949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
-1511533936949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
-1511533936949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
-1511533937775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533938760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
-1511533939081	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
-1511533942824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1511533980461	geckodriver	INFO	geckodriver 0.19.0
-1511533980461	geckodriver	INFO	Listening on 127.0.0.1:55678
-1511533982539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.4pKLBaVdLHCK"
+[Child 25284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 104304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 104304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 83484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 83484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+[Child 66096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.redditstatic.com/videoplayer.AROa8KXpw7I.js, line 13: ReferenceError: event is not defined
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.redditstatic.com/videoplayer.AROa8KXpw7I.js, line 13: ReferenceError: event is not defined
+[Child 24912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 104292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.ffmpeg-archive.org/assets/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 45832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 65260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1646: TypeError: can't access dead object
+JavaScript error: https://support.cdn.mozilla.net/static/build/common-min.3b0e8abfcc44.js, line 10: Error: Error retrieving geoip data
+JavaScript error: https://support.cdn.mozilla.net/static/build/common-min.3b0e8abfcc44.js, line 10: Error: Error retrieving geoip data
+1511560776006	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1511560776015	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing minimum_opera_version: An unexpected property was found in the WebExtension manifest.
+1511560776015	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1511560776128	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1511560778455	addons.xpi	WARN	Failed to remove temporary file C:\Users\SHPOOZ~1\AppData\Local\Temp\tmp-xvs.xpi for addon https://addons.mozilla.org/firefox/downloads/file/764081/adblock_plus-3.0.1-an+fx.xpi?src=dp-btn-primary: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: removeTemporaryFile :: line 1558"  data: no] Stack trace: removeTemporaryFile()@resource://gre/modules/addons/XPIInstall.jsm:1558 < startInstall/<()@resource://gre/modules/addons/XPIInstall.jsm:1907
+1511560778490	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1511560778497	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing minimum_opera_version: An unexpected property was found in the WebExtension manifest.
+1511560778498	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1511560778539	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 3ms; not stored in cache (too small to benefit))
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+Extension error: TypeError: response is undefined moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js 668
+[[Exception stack
+apply/<@moz-extension://181d8ed5-9f4c-4dfb-9376-ad8855128bc2/include.preload.js:668:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:285:133
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:456:13
+]]
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.4pKLBaVdLHCK"
 1511533982959	Marionette	INFO	Enabled via --marionette
 Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
 [Child 72524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
@@ -4252,3 +4223,702 @@ Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\op
 1511535047273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967384"
 1511535047323	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
 1511535051053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511536214598	geckodriver	INFO	geckodriver 0.19.0
+1511536214598	geckodriver	INFO	Listening on 127.0.0.1:60379
+1511536216646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.h31r74P7cXkS"
+1511536217063	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 101404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 101404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511536218249	Marionette	INFO	Listening on port 60385
+1511536218696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511536218745	Marionette	DEBUG	Register listener.js for window 4294967297
+1511536218759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511536219298	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511536219298	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511536219758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536221351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511536222118	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536222266	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536222581	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536222587	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536222652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511536222653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511536222653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1511536222653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1511536222653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511536222653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1511536222654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511536222654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511536222654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511536222655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511536222655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511536222655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511536222656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1511536222656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511536222656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511536222656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511536222975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536224272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1511536224679	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1511536226315	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536229960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511536237751	geckodriver	INFO	geckodriver 0.19.0
+1511536237767	geckodriver	INFO	Listening on 127.0.0.1:60834
+1511536239799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.TgOFMCaH8HBc"
+1511536240217	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 57984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 99496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 99496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511536241433	Marionette	INFO	Listening on port 60841
+1511536241850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511536241902	Marionette	DEBUG	Register listener.js for window 4294967297
+1511536241917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511536242782	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511536242782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511536243350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536244893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511536245384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511536245401	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536245463	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536245805	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536245810	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536245870	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511536245871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511536245877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511536245877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511536245877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511536245878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511536245878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511536245878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511536245878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511536245879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511536245879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511536245879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511536245879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511536245880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511536246163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536247094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1511536247367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1511536247388	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511536250894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511538609636	geckodriver	INFO	geckodriver 0.19.0
+1511538609636	geckodriver	INFO	Listening on 127.0.0.1:61580
+1511538611731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.hfIfUyLe54Bt"
+1511538612148	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 89296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 41060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511538613312	Marionette	INFO	Listening on port 61586
+1511538613801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511538613945	Marionette	DEBUG	Register listener.js for window 4294967297
+1511538613962	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511538614458	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511538614459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511538615060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538618473	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538618646	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538619087	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538619106	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538619307	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511538619308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511538619308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511538619308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511538619308	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511538619309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511538619310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511538619310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511538619310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511538619311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511538619311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511538619311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511538619312	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1511538619312	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511538620223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538620945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1511538621181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1511538621522	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+[Parent 89296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 70012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511538682650	geckodriver	INFO	geckodriver 0.19.0
+1511538682666	geckodriver	INFO	Listening on 127.0.0.1:62187
+1511538684713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.oouQx9kPuayo"
+1511538685129	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511538686358	Marionette	INFO	Listening on port 62193
+1511538686755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511538686880	Marionette	DEBUG	Register listener.js for window 4294967297
+1511538686904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511538687451	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511538687453	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511538687922	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538690344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511538690460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1511538690483	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538690534	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538690891	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538690935	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538691034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511538691034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511538691034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511538691034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511538691034	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511538691035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511538691035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511538691035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511538691035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1511538691035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511538691036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511538691036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1511538691036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511538691036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511538691037	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511538691385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538692892	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538697186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 105696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 105696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+740404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511538740570	Marionette	DEBUG	Register listener.js for window 4294967297
+1511538740619	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511538741162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511538741162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511538741759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538743122	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538743176	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538743636	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538743661	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538743820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511538743820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511538743821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1511538743821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511538743821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511538743821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511538743822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511538743827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511538743827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511538743828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511538744032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538745892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1511538745959	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538750368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 95128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511538783010	geckodriver	INFO	geckodriver 0.19.0
+1511538783026	geckodriver	INFO	Listening on 127.0.0.1:63402
+1511538785089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.J9FcVwEuCnU2"
+1511538785516	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511538786701	Marionette	INFO	Listening on port 63408
+1511538787129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511538787326	Marionette	DEBUG	Register listener.js for window 4294967297
+1511538787364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511538787878	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511538787879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511538788557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538790141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511538790198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511538790607	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538790662	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538790979	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538791004	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538791148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511538791148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511538791149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511538791150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511538791150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511538791150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511538791150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511538791826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511538793086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1511538793179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1511538793764	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 77364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 99524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511558246700	geckodriver	INFO	geckodriver 0.19.0
+1511558246700	geckodriver	INFO	Listening on 127.0.0.1:64474
+1511558248810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.3DgUsLt85aMy"
+1511558249525	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 100376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 100376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511558250792	Marionette	INFO	Listening on port 64480
+1511558250887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511558250955	Marionette	DEBUG	Register listener.js for window 4294967297
+1511558250980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511558251500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511558251501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511558252355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558255245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511558255812	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558255937	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558256474	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558256493	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558256654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511558256655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511558256656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511558256662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1511558256662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511558256662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511558256663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511558256663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511558256663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511558256663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511558256664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511558256664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511558256664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511558256664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511558257263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558258850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1511558258989	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558263394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511558419058	geckodriver	INFO	geckodriver 0.19.0
+1511558419058	geckodriver	INFO	Listening on 127.0.0.1:65089
+1511558421167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.GSmuMpKlPVLe"
+1511558421602	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 42116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 89532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 89532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511558422772	Marionette	INFO	Listening on port 65095
+1511558423225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511558423399	Marionette	DEBUG	Register listener.js for window 4294967297
+1511558423435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511558423917	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511558423919	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511558425998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558431893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511558432708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1511558432991	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558433068	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558433791	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558433808	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558433983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511558433984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511558433985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511558433985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1511558433985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511558433986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511558433987	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511558433987	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511558433988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511558433988	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511558433989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511558433989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511558433990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511558433990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511558434532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558436380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1511558436439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1511558437794	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558441221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511558490347	geckodriver	INFO	geckodriver 0.19.0
+1511558490347	geckodriver	INFO	Listening on 127.0.0.1:50714
+1511558492425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.iBf9kAIeToDd"
+1511558492852	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 60560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511558494044	Marionette	INFO	Listening on port 50720
+1511558494465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511558494631	Marionette	DEBUG	Register listener.js for window 4294967297
+1511558494652	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511558495169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511558495170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511558496088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558502757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1511558502793	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558503006	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558503484	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558503511	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558503631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511558503631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511558503631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511558503631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511558503631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511558503632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511558503633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511558503633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511558503633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1511558504266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558504657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1511558505013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1511558506196	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558510664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511558828139	geckodriver	INFO	geckodriver 0.19.0
+1511558828139	geckodriver	INFO	Listening on 127.0.0.1:51447
+1511558830233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.CUPqFAvmzrAB"
+1511558830646	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 30156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 71584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 71584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511558831837	Marionette	INFO	Listening on port 51453
+1511558832303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511558832443	Marionette	DEBUG	Register listener.js for window 4294967297
+1511558832463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511558833197	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511558833198	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511558835107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558854114	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558854189	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558854927	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558854963	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558855085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511558855085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511558855091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511558855091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511558855092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511558855092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511558855092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511558855093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511558855093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511558855093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511558855093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1511558855094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511558855094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511558855094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1511558857212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558861826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1511558861889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511558862816	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511558866355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511559167992	geckodriver	INFO	geckodriver 0.19.0
+1511559168008	geckodriver	INFO	Listening on 127.0.0.1:51945
+1511559170055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.p2U3N9OJZwcB"
+1511559170472	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 102568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 76828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 76828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511559171670	Marionette	INFO	Listening on port 51951
+1511559172130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511559172264	Marionette	DEBUG	Register listener.js for window 4294967297
+1511559172284	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511559174169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511559174170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511559175299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559177933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511559178242	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559178391	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559178669	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559178700	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559178802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511559178802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511559178802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511559178802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1511559178803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511559178804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511559178804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511559178804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1511559178804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511559178974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559180835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511559180901	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511559183693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511560109617	geckodriver	INFO	geckodriver 0.19.0
+1511560109617	geckodriver	INFO	Listening on 127.0.0.1:56989
+1511560111700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.Og5IYaugA5Jo"
+1511560112110	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 79880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 79880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560113260	Marionette	INFO	Listening on port 56995
+1511560113734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560113780	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560113794	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560115619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560115621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560147429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560147464	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 51376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+Data\Local\openvr\openvrpaths.vrpath
+[Child 46412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560153023	Marionette	INFO	Listening on port 57430
+1511560153054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560153103	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560153133	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560154151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560154152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560154822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560156724	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560159172	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560159463	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560159825	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560159836	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560159957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560159957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511560159957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560159958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511560159958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560159958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560159959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1511560159968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560159969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560159970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511560159971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560159971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511560159972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560160486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560161575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1511560161656	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560166155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511560174286	geckodriver	INFO	geckodriver 0.19.0
+1511560174286	geckodriver	INFO	Listening on 127.0.0.1:58104
+1511560176317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.2WHO3upCpHVj"
+1511560176730	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 84716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 84904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 84904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560177799	Marionette	INFO	Listening on port 58111
+1511560177901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560177957	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560177978	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560178578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560178579	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560179207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560180702	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560181037	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560181378	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560181381	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560181484	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560181485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511560181486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560181487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511560181488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560181489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560181489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511560181489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560181490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560181490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560181491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1511560181491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560181491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511560181491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560181659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560182952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1511560183422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1511560184941	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560187788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511560195531	geckodriver	INFO	geckodriver 0.19.0
+1511560195531	geckodriver	INFO	Listening on 127.0.0.1:58337
+1511560197563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.BS6q1JWYujAT"
+1511560197978	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 93792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 93792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560199014	Marionette	INFO	Listening on port 58343
+1511560199132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560199194	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560199208	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560199736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560199737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560200342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560202063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511560202714	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560202887	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560203224	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560203238	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560203373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560203374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560203374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560203375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511560203375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560203375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560203376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511560203376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511560203376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560203377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560203378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511560203384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560203384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511560203385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560203558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560204695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1511560204747	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 83952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 83952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 95672, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 95672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+EBUG	Received DOM event "unload" for "about:blank"
+1511560213521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560215297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511560216003	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560216198	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560216571	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560216582	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560216827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560216828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511560216829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511560216829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560216829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560216829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1511560216830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560216830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511560216830	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560217855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560218943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1511560219163	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+Data\Local\openvr\openvrpaths.vrpath
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560228463	Marionette	INFO	Listening on port 59697
+1511560228935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560229011	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560229032	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560229578	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560229579	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560230101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560231679	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560231992	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560232008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1511560232009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1511560232303	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560232324	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560232465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560232466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560232466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560232466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511560232466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560232466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560232467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1511560232467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1511560232469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560232472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560232473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511560232473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560232473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1511560232474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560232683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560233793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1511560233849	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560237125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1511560245062	geckodriver	INFO	geckodriver 0.19.0
+1511560245078	geckodriver	INFO	Listening on 127.0.0.1:60004
+1511560247203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SHPOOZ~1\\AppData\\Local\\Temp\\rust_mozprofile.6COb0OFITcPi"
+1511560247732	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Shpoozipoo\AppData\Local\openvr\openvrpaths.vrpath
+[Child 83180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 83180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511560248996	Marionette	INFO	Listening on port 60010
+1511560249277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511560249359	Marionette	DEBUG	Register listener.js for window 4294967297
+1511560249377	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511560249886	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511560249887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511560250475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560252272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1511560253186	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560253243	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560253586	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560253609	Marionette	DEBUG	Received DOM event "unload" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511560253824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1511560253825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1511560253826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1511560254589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560254942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1511560255681	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi"
+1511560259053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
