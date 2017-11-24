@@ -3,11 +3,13 @@ import useless_words
 from nltk.stem import PorterStemmer
 import time
 from shutil import copyfile
+from difflib import SequenceMatcher
 
 # CONSTANTS
 SIGN_PATH = "C:\\Users\\Shpoozipoo\\Desktop\\Signs"
 SENTENCES_PATH = "C:\\Users\\Shpoozipoo\\Desktop\\Sentences"
 DOWNLOAD_WAIT = 7
+SIMILIARITY_RATIO = 0.9
 # Get words
 def download_word_sign(word):
     from selenium import webdriver
@@ -26,23 +28,30 @@ def download_word_sign(word):
     # stem = ps.stem(word)
     # Show drop down menu ( Spinner )
     spinner = browser.find_elements_by_xpath("//option")
-    found = False
+    best_score = -1.
+    closest_word_item = None
     for item in spinner:
         item_text = item.text
         # if stem == str(item_text).lower()[:len(stem)]:
-        if word == str(item_text).lower():
-            found = True
-            print("Downloading " + word + "...")
-            item.click()
-            time.sleep(DOWNLOAD_WAIT)
-            break
-    if not found:
+        s = similar(word, str(item_text).lower())
+        if s > best_score:
+            best_score = s
+            closest_word_item = item
+            print(word, " ", str(item_text).lower())
+            print("Score: " + str(s))
+    if best_score < SIMILIARITY_RATIO:
         print(word + " not found in dictionary")
         return
-    in_path = "C:\\Users\\Shpoozipoo\\Downloads\\" + word + ".swf"
-    out_path = SIGN_PATH + "\\" + word + ".mp4"
+    real_name = str(closest_word_item.text).lower()
+
+    print("Downloading " + real_name + "...")
+    closest_word_item.click()
+    time.sleep(DOWNLOAD_WAIT)
+    in_path = "C:\\Users\\Shpoozipoo\\Downloads\\" + real_name + ".swf"
+    out_path = SIGN_PATH + "\\" + real_name + ".mp4"
     convert_file_format(in_path, out_path)
     browser.close()
+    return real_name
 
 def convert_file_format(in_path, out_path):
     # Converts .swf filw to .mp4 file and saves new file at out_path
@@ -98,19 +107,38 @@ def in_database(w):
             return True
     return False
 
+
+def similar(a, b):
+    # Returns a decimal representing the similiarity between the two strings.
+    return SequenceMatcher(None, a, b).ratio()
+
+def find_in_db(w):
+    best_score = -1.
+    best_vid_name = None
+    for v in get_words_in_database():
+        s = similar(w, v)
+        if best_score < s:
+            best_score =  s
+            best_vid_name = v
+    if best_score > SIMILIARITY_RATIO:
+        return best_vid_name
 # Get text
 # text = str(input("Enter the text you would like to translate to pse \n"))
-text = "me want to go to israel"
+text = "You are a female and me am a mamal"
 print("Text: " + text)
 # Process text
 words = process_text(text)
 # Download words that have not been downloaded in previous sessions.
-words_in_db = get_words_in_database()
+# words_in_db = get_words_in_database()
+real_words = []
 for w in words:
-    if w in get_words_in_database():
-        print(w + " is already in db")
+    real_name = find_in_db(w)
+    if real_name:
+        print(w + " is already in db as " + real_name)
+        real_words.append(real_name)
     else:
-        download_word_sign(w)
+        real_words.append(download_word_sign(w))
+words = real_words
 # Copy videos of signs used in this sentence into a folder
 for w in words:
     copyfile(SIGN_PATH + "\\" + w + ".mp4", SENTENCES_PATH + "\\" + w + ".mp4")

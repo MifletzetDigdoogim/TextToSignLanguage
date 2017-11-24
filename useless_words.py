@@ -7,6 +7,7 @@ def words():
     words.add("are")
     words.add("am")
     words.add("a")
+    words.add("it")
 
     # Punctuation
     words.add(",")
